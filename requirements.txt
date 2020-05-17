@@ -2,5 +2,4 @@ numpy
 neat-python
 graphviz
 matplotlib
-sdl-config
 pygame

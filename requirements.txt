@@ -2,4 +2,4 @@ numpy
 neat-python
 graphviz
 matplotlib
-pygame 3.7
+pygame-3.7
